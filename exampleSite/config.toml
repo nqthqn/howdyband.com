@@ -36,20 +36,20 @@ URL = "about"
 name = "About"
 weight = 2
 
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 3
+# [[menu.main]]
+# URL = "blog"
+# name = "Blog"
+# weight = 3
 
-[[menu.main]]
-URL = "portfolio"
-name = "Portfolio"
-weight = 4
+# [[menu.main]]
+# URL = "portfolio"
+# name = "Portfolio"
+# weight = 4
 
-[[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 5
+# [[menu.main]]
+# URL = "contact"
+# name = "Contact"
+# weight = 5
 
 
 # default parameters
@@ -73,27 +73,27 @@ copyright = "Copyrighht &copy; 2020"
 
 # contact
 [params.contact]
-enable = true
+enable = false
 form_action = "#" # contact form works with : https://formspree.io
 
 # preloader
 [params.preloader]
 enable = true
-preloader = "" # use png, jpg, svg or gif format
+preloader = "images/logo-dark-square.svg" # use png, jpg, svg or gif format
 
 # social site
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-facebook"
 
-[[params.social]]
-URL = "#"
-icon = "ti-instagram"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-instagram"
 
-[[params.social]]
-URL = "#"
-icon = "ti-dribbble"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-dribbble"
 
-[[params.social]]
-URL = "#"
-icon = "ti-twitter-alt"
+# [[params.social]]
+# URL = "#"
+# icon = "ti-twitter-alt"
