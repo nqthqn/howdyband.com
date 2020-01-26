@@ -14,7 +14,7 @@ author_signature : ""
 
 ### Pricing
 
-Lessons are **FREE** to students registered through AllPrep Academy
+Lessons are **FREE** to students registered through [AllPrep Academy](https://sheridanallprep.org/)
 
  - ​**Private Lessons:** First half-hour free.  
  - **Group Lessons:** First class free. 
