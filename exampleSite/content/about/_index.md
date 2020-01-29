@@ -44,25 +44,26 @@ Lessons are **FREE** to students registered through [AllPrep Academy](https://sh
  - 7:30 to 8:00pm
  - ~~8:00 to 8:30pm filled~~
 
- <style>
- .intro {
-     font-size: 1.25rem;
-     line-height: 1.7rem;
-     margin-bottom: 2rem;
-     padding-bottom: 2rem;
-     border-bottom: solid black 1px;
- }
 
- li {
-     margin-bottom: 4px;
- }
- ul {
-     margin-bottom: 16px;
- }
- h4 {
-     margin-bottom: 16px;
- }
- .image {
-     width: 100%;
- }
- </style>
+<style>
+.intro {
+font-size: 1.25rem;
+line-height: 1.7rem;
+margin-bottom: 2rem;
+padding-bottom: 2rem;
+border-bottom: solid black 1px;
+}
+
+li {
+margin-bottom: 4px;
+}
+ul {
+margin-bottom: 16px;
+}
+h4 {
+margin-bottom: 16px;
+}
+.image {
+width: 100%;
+}
+</style>
