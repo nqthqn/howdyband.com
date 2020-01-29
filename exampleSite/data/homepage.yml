@@ -2,30 +2,7 @@
 banner:
   title : "<br>Let's make music."
 
-# about
-about:
-  enable : true
-  content : "
-  <h3 style='margin-bottom:1em;'>Online Music Lessons</h3>
-
-    <h4>Individual</h4>
-    <p>($12 per 1/2 hr)</p>
-
-    <h4>Group of 2</h4>
-    <p>($8 per person: 1/2 hr)</p>
-
-    <h4>Group of 3 - 6</h4>
-    <p>($5 per person: 1/2 hr)</p>
-
-    <div style='padding:2em; font-weight: bold; color: black; background: #eee; border-radius: 4px;'>
-        First Lesson Free · No charge to AllPrep Academy students · Any Instrument
-    </div>
-"
-  button:
-    enable : false
-    label : "know more"
-    URL : "about"
-
+    
 # skill
 skill:
   enable : false
@@ -46,6 +23,10 @@ skill:
     - title : "Web App"
       progress : "70%"
       color : "#ffbcaa"
+
+
+
+
 
 # experience
 experience:
