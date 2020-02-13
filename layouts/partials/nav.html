@@ -1,0 +1,17 @@
+<nav class="nav">
+    <ul>
+        <li>
+            <a href="/">
+                <img src="/logo-dark-square.svg" alt="">
+            </a>
+        </li>
+        
+        <div class="nav__links">
+            {{ range .Site.Pages }}
+                <li>
+                    <a href="{{.Permalink}}">{{.Title}}</a>
+                </li>
+            {{ end }}
+        </div>
+    </ul>
+</nav>

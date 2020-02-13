@@ -1,0 +1,5 @@
+# default configuration
+baseURL = "https://howdyband.com"
+languageCode = "en-us"
+title = "Howdy Band!"
+disableKinds = ["tags", "sitemap", "taxonomyTerm"]

@@ -1,0 +1,172 @@
+$grid: 8px;
+$mobile: 780px;
+
+* {
+  box-sizing: border-box;
+}
+
+:root {
+  // Colors
+  --bg: #f5f5f5;
+  --fg: #101010;
+  --th: rgb(0, 115, 255);
+}
+
+html {
+  font-family: "EB Garamond", serif;
+  font-size: 1.2rem;
+  font-weight: 400;
+  line-height: 1.7;
+}
+// Default
+body {
+  background: var(--bg);
+  color: var(--fg);
+  a {
+    color: var(--th);
+  }
+  margin: 0;
+  h1,
+  h2,
+  h3,
+  h4 {
+    font-family: "Oswald", sans-serif;
+    margin-bottom: $grid;
+    line-height: 1.2em;
+  }
+}
+
+// Navigation
+
+.nav {
+  background: white;
+  border-bottom: $grid solid black;
+  margin-bottom: $grid * 3;
+  padding-bottom: $grid * 3;
+  ul {
+    max-width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    list-style-type: none;
+    align-items: flex-end;
+    padding-left: $grid * 3;
+    padding-top: $grid * 4;
+    margin-top: 0;
+    li img {
+      width: 150px;
+      margin-right: $grid * 4;
+    }
+    .nav__links {
+      li {
+        font-size: 1.2em;
+        font-weight: bold;
+        a {
+          text-decoration: none;
+          font-family: "Oswald", sans-serif;
+        }
+        a:hover {
+          text-decoration: underline;
+        }
+      }
+    }
+  }
+  @media (min-width: $mobile) {
+      margin-bottom: $grid * 6;
+    ul {
+      align-items: center;
+      .nav__links {
+        display: flex;
+        > * {
+          margin-left: $grid * 4;
+        }
+      }
+    }
+  }
+}
+
+// content
+
+.content {
+  max-width: 960px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: $grid * 3;
+  padding-right: $grid * 3;
+  hr {
+    border: 1px solid rgb(233, 233, 233);
+  }
+  h1 {
+    font-size: 2.3em;
+    margin-bottom: $grid;
+  }
+
+  p {
+    font-size: 1em;
+    line-height: 1.5em;
+    max-width: 700px;
+    margin: 0 0 1.5rem;
+    img {
+      max-width: 700px;
+      width: 100%;
+    }
+  }
+}
+
+// form
+
+.form {
+    max-width: 960px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: $grid * 3;
+    padding-right: $grid * 3;
+    margin-left: auto;
+    margin-right: auto;
+    &__names {
+        display: grid;
+    }
+    label {
+        margin-top: $grid * 2;
+        display: flex;
+        flex-direction: column;
+    }
+    input, select {
+        font-size: 1em;
+        padding: $grid;
+        border: 3px solid black;
+        border-radius: none;
+        outline: 0;
+        &:hover, &:active, &:focus {
+            border: 3px solid var(--th);
+        }
+    }
+    button {
+        align-self: flex-end;
+        display: block;
+        margin-top: $grid * 3;
+        font-size: 1.3em;
+        background: var(--th);
+        padding: $grid $grid*3;
+        color: white;
+        border-radius: $grid / 2;
+        cursor: pointer;
+    }
+    margin-bottom: $grid * 6;
+    @media (min-width: $mobile) {
+        &__names {
+            grid-gap: $grid * 2;
+            grid-template-columns: 1fr 1fr;
+        }
+    }
+}
+
+.contact {
+    display: grid;
+    grid-gap: $grid * 2;
+    
+    @media (min-width: $mobile + 100px) {
+        grid-template-columns: 1fr 1fr;
+    }
+}
