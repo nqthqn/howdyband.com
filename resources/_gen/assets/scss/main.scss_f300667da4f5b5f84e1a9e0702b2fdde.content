@@ -115,7 +115,8 @@ body {
     padding: 8px 24px;
     color: white;
     border-radius: 4px;
-    cursor: pointer; }
+    cursor: pointer;
+    font-family: "Oswald", sans-serif; }
   @media (min-width: 780px) {
     .form__names {
       grid-gap: 16px;
