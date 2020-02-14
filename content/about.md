@@ -8,7 +8,7 @@ title: About
 
 ## Cost
 
-​Private Lessons: First half-hour free. Group Lessons: First class free. Lessons are FREE to students registered through [AllPrep Academy](https://sheridanallprep.org/).
+Private Lessons: First half-hour free. Group Lessons: First class free. Lessons are FREE to students registered through [AllPrep Academy](https://sheridanallprep.org/).
 
 ***
 
@@ -19,20 +19,16 @@ title: About
 * **Thursday:** Brass (trumpet, trombone...)
 * **Friday:** Reed (sax, clarinet...)
 * **Saturday:** Percussion (djembe, bongos...)
-* **Sunday:** ​Wind (flute, ocarina...)
+* **Sunday:** Wind (flute, ocarina...)
 * _Yeah, pretty much everything, even Hammered Dulcimer._
 
 ***
 
 ### Private Lessons
 
-#### Weekdays
-
+#### Monday, Tuesday, or Thursday
 * 7:00 to 7:30am
 * 1:00 to 1:30pm \[reserved\]
-
-#### Monday, Tuesday, or Thursday
-
 * ~~4:00 to 4:30pm~~ _(filled)_
 * 5:00 to 5:30pm
 * 5:30 to 6:00pm
