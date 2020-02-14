@@ -5,6 +5,8 @@ date: 2019-05-12T06:14:34.000+00:00
 ---
 # Online Music Lessons
 
+Any Instrument, including voice.
+
 ***
 
 ## Individual
@@ -21,9 +23,9 @@ date: 2019-05-12T06:14:34.000+00:00
 
 ***
 
-Special Price though May, 2020 . . . The first lesson free.   
-No charge to AllPrep Academy students. 
+## Specials now through end of May, 2020!
 
-Any Instrument, including voice.
+First half-hour free to all.  
+Each of the first 8 students registered through [AllPrep Academy](https://sheridanallprep.org/) win free weekly lessons through May, 2020
 
 ### Meet over Zoom, Skype or Google Hangouts
