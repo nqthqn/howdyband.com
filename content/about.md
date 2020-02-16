@@ -34,5 +34,3 @@ title: Calendar
 * 6:30 to 7:30pm
 * 7:30 to 8:00pm
 * ~~8:00 to 8:30pm~~ _(all filled)_
-
-  .
