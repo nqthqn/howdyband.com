@@ -30,7 +30,6 @@ title: Calendar
 * 7:00 to 7:30am _(Mondays filled)_
 * 1:00 to 1:30pm \[all reserved\]
 * ~~4:00 to 4:30pm~~ _(all filled)_
-* 5:00 to 5:30pm
 * 5:30 to 6:00pm
 * 6:30 to 7:30pm
 * 7:30 to 8:00pm
