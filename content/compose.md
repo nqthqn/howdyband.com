@@ -9,6 +9,7 @@ To complete the assignments, students are expected to have a smart phone, laptop
 
 ## Compose a song: June 28 - July 2 
 Prerequisite: Come to first session with at least three story ideas.
+
 * session 1 - from narrative to lyric. poetic elements. song structures
 * session 2 - music theory; scales, chords, rhythms
 * session 3 - enhancing lyric with melodic phrases, harmonies, rhythms, patterns
@@ -17,6 +18,7 @@ Prerequisite: Come to first session with at least three story ideas.
 
 ## Record a song: July 12 - July 16 
 Prerequisite: Come to first session with an original song and willingness to sing and/or play a musical instrument.
+
 * session 1 - explore software and apps, recording gear options
 * session 2 - recording first track metronome, drum track
 * session 3 - recording instrument tracks, vocal tracks
@@ -25,6 +27,7 @@ Prerequisite: Come to first session with an original song and willingness to sin
 
 ## Produce a music video: July 19 - 23
 Prerequisite: Come to first session with a recorded song (copyright free).
+
 * session 1 -  storyboard
 * session 2 -  green screen, multi-camera angles, microphones, and lights
 * session 3 -  video recording of lip-sync to song, acting
