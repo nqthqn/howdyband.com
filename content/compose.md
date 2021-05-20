@@ -4,7 +4,7 @@ Students need not have musical talent, only bravery. Each course stands independ
 Courses are taught by a state endorsed music teacher.
                                                       
 Each online session is 1.5 hours long, totaling 7.5 hours of instruction per week. Additionally, students should allow at least that much time for assignments done outside of class meetings.
-Thus, with 22.5 hours of online instruction and approximately 22 hours of homework, a 0.5 credit is available for successful completion of the entire series, in the category of “Fine and Applied Arts”.
+Thus, with 22.5 hours of online instruction and approximately 22 hours of homework, a 0.5 credit is available for successful completion of the entire series, in the category of “Fine and Applied Arts”. Middle school students would not earn credit but are allowed to audition for available seats by demonstration of singing or other instrument proficency. 
 To complete the assignments, students are expected to have a smart phone, laptop, internet connection, and any musical instrument.
 
 ## Compose a song: June 28 - July 2 
