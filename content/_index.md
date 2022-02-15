@@ -23,9 +23,9 @@ Any Instrument, including voice.
 
 ***
 
-## Specials now through end of May, 2021!
+## Specials now through end of May, 2022!
 
 First half-hour free to all.  
-Each of the first 8 students registered through [AllPrep Academy](https://sheridanallprep.org/) win free weekly lessons through May, 2021
+Each of the first 4 students registered through [AllPrep Academy](https://sheridanallprep.org/) win free weekly lessons through May, 2022
 
 ### Meet over Zoom, Skype or Google Hangouts
