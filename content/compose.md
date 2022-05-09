@@ -21,8 +21,6 @@ This ambitious class requires 3 hours of online meetings each week and approxima
 
 Doing so will earn a 0.5 credit in the category of “Fine and Applied Arts”. To complete the assignments, students are expected to have a smart phone, laptop, internet connection, and any musical instrument.
 
-If interested, select "Music Video" at HowdyBand.com/contact/
-
   
 Exact days and times to be negotiated with the majority of classmates.
 
@@ -60,7 +58,7 @@ week 6b - publishing
 
 **August : Music Video Production**
 
-These sessions are not part of the SHAPA summer program, but they are free to SHAPA students.
+These sessions are not part of the SHAPA summer program, but they are free to SHAPA students. If interested, select "Music Video" at HowdyBand.com/contact/
 
 Prerequisite: Come to first session with a recorded original song.
 
