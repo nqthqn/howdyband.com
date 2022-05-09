@@ -60,18 +60,6 @@ week 6b - publishing
 
 These sessions are not part of the SHAPA summer program, but they are free to SHAPA students. If interested, select "Music Video" at HowdyBand.com/contact/
 
-Prerequisite: Come to first session with a recorded original song.
-
-session 1 - storyboard
-
-session 2 - green screen, multi-camera angles, microphones, and lights
-
-session 3 - video recording of lip-sync to song, acting
-
-session 4 - editing video tracks
-
-session 5 - View and evaluate finished Music Video. Publish.
-
 **Scoring Rubric**
 
 To encourage students to work together, and to encourage minimal cost of music production, here are the scoring incentives.
@@ -80,8 +68,7 @@ To encourage students to work together, and to encourage minimal cost of music p
 
 Students gain points for using other class members. Students may use persons not enrolled, but will lose points for having more than two non enrolled students
 
-Nathan’s Trashing the Camp video
-
+Nathan’s Trashing the Camp video  
 [https://www.youtube.com/watch?v=pdL-pMI6hts](https://www.youtube.com/watch?v=pdL-pMI6hts "https://www.youtube.com/watch?v=pdL-pMI6hts")
 
 ## Produce a music video: August, TBA
