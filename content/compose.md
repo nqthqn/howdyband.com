@@ -3,13 +3,15 @@
 +++
 # Music Production
 
-Music Production is for high school students to compose and record a song. Successfully completing this 6 week course earns 0.5 credits in Fine and Applied Arts. Bravery is more important than musical talent. Middle school students must audition for available seats. Visit - HowdyBand.com/compose/
+Music Production is for high school students to compose and record a song. Successfully completing this 6 week course earns 0.5 credits in Fine and Applied Arts. Bravery is more important than musical talent. Middle school students must audition for available seats. Visit
+
+HowdyBand.com/compose/
 
 **Summer Term Schedule**
 
 Song Composition: Session 1: June 13 - July 1
 
-Music Video Production: Session 2: July 5 - July 22
+Record a Song: Session 2: July 2 - July 22
 
 Students need not have musical talent, only bravery. Each session stands independently. For example, a student who already has a song recorded, may opt for only the second session, to make the song into a music video. Or, also acceptable, is a student who only wants to compose a song, but is not interested in making a music video.
 
@@ -20,6 +22,9 @@ This ambitious class requires 3 hours of online meetings each week and approxima
 Doing so will earn a 0.5 credit in the category of “Fine and Applied Arts”. To complete the assignments, students are expected to have a smart phone, laptop, internet connection, and any musical instrument.
 
 If interested, select "Music Video" at HowdyBand.com/contact/
+
+  
+Exact days and times to be negotiated with the majority of classmates.
 
 **June 13 - July 1: Compose a song**
 
@@ -81,7 +86,7 @@ Nathan’s Trashing the Camp video
 
 [https://www.youtube.com/watch?v=pdL-pMI6hts](https://www.youtube.com/watch?v=pdL-pMI6hts "https://www.youtube.com/watch?v=pdL-pMI6hts")
 
-## Produce a music video: July 19 - 23
+## Produce a music video: August, TBA
 
 Prerequisite: Come to first session with a recorded song (copyright free).
 
