@@ -35,19 +35,9 @@ Prerequisite: Come to first session with an original song and willingness to sin
 
 **PHASE 3: Music Video Production**
 
+Prerequisite: Come to first session with a recorded, copyright free, song . 
+
 * weeks 7 and 8 TBA. See below for sessions and scoring rubric.
-
-**Scoring Rubric**
-
-To encourage students to work together, and to encourage minimal cost of music production, here are the scoring incentives.
-
-200 points per week (100 pts per session)
-
-Students gain points for using other class members. Students may use persons not enrolled, but will lose points for having more than two non enrolled students
-
-## Produce a music video: August, TBA
-
-Prerequisite: Come to first session with a recorded song (copyright free).
 
 * session 1 -  storyboard
 * session 2 -  green screen, multi-camera angles, microphones, and lights
@@ -58,7 +48,7 @@ Prerequisite: Come to first session with a recorded song (copyright free).
 ## Scoring Rubric Targets
 
 To encourage students to work together, and to encourage minimal cost of music production, students gain points for using other class members.
-Students may use persons not enrolled, but will lose points for using more than two non-enrolled students.
+Students may use persons not enrolled, but will lose points for using more than two non-enrolled students. 200 points per week (100 pts per session)
 
 ## Song Writing
 
