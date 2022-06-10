@@ -23,9 +23,8 @@ Any Instrument, including voice.
 
 ***
 
-## Specials now through end of May, 2022!
-
-First half-hour free to all.  
-Each of the first 4 students registered through [AllPrep Academy](https://sheridanallprep.org/) win free weekly lessons through May, 2022
+## Specials now through end of June, 2022!
+ 
+Free! 8 week class in MUSIC PRODUCTION (3 hours per week) for KFCS students. Register through <a href="https://www.kfalls.k12.or.us/"> Klamath Falls City Schools</a>.
 
 ### Meet over Zoom, Skype or Google Hangouts
