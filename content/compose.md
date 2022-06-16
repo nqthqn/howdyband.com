@@ -9,7 +9,7 @@ Each phase stands independently. For example, a student who already has a song r
 
 Doing all three phases will earn a 0.5 credit in the category of “Fine and Applied Arts”. To complete the assignments, students are expected to have a smart phone, laptop, internet connection, and any musical instrument.
 
-On June 21, our first session, registered students will follow a link to an online meeting. Students will be introduced to the course scope, sequence, and assignemnts. Exact days and times for the summer schedule will be negotiated with the majority of classmates. 
+On June 21, our first session, registered students will follow a link to an online meeting. Students will be introduced to the course scope, sequence, and assignments. Exact days and times for the summer schedule will be negotiated with the majority of classmates. 
 
 **PHASE 1: Compose a song**
 
