@@ -23,9 +23,11 @@ Any Instrument, including voice.
 
 ***
 
-## Specials now through end of June, 2022!
- 
-Free! 8 week class in <a href="http://howdyband.com/compose/">MUSIC PRODUCTION</a> (3 hours per week) for KFCS students. 
-<br>Register through <a href="https://www.kfalls.k12.or.us/"> Klamath Falls City Schools</a>.
+## Specials for the 2022 - 2023 school year
+
+  
+Free music lessons for SHAPA students, up to 4 hours per month. (Maximum 2 hours per month for any one student in private lessons.) First come, first served. 
+
+Prep for the 8 week class in <a href="http://howdyband.com/compose/">MUSIC PRODUCTION</a> (3 hours per week) expected during the summer of 2023.
 
 ### Meet over Zoom, Skype or Google Hangouts
